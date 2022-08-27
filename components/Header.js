@@ -7,7 +7,7 @@ export default function Header({ name }) {
       <p className="text-2xl dark:text-white text-center">
         <Link href="/">
           <a>aaaaaaaaaaa {name}</a>
-<p>test</p>
+          <p>test</p>
         </Link>
       </p>
     </header>
